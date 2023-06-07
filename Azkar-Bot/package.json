@@ -8,7 +8,7 @@
     "discordjs-ytdl": "^2.2.0",
     "express": "^4.17.1",
     "ms": "^2.1.3",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "pretty-ms": "^7.0.1",
     "st.db": "^2.0.0",
     "ytdl-core": "^4.8.2"
